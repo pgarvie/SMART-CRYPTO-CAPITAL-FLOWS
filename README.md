@@ -9,3 +9,6 @@ plexis-crypto/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+Philippe Garvie
+PLEXIS Financial & Trading
